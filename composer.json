@@ -1,0 +1,17 @@
+{
+    "name": "hoho9155/city-by-postcode",
+    "autoload": {
+        "psr-4": {
+            "Hoho9155\\CityByPostcode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hoho9155",
+            "email": "hoho915571@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.7"
+    }
+}
