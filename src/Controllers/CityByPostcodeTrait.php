@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Hoho9155\CityByPostcode;
+namespace Hoho9155\CityByPostcodeTrait;
 
-trait CityByPostcode 
+trait CityByPostcodeTrait
 {
     public function getCity($postcode) 
     {
